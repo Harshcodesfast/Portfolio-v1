@@ -43,7 +43,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "Kanban Board is a dynamic task management application that allows users to create and customize columns and tasks according to their workflow. The application emphasizes drag-and-drop functionality, responsive design, and a clean UI/UX, making task management both efficient and visually engaging.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["React", "Typescript", "Dnd-kit", "TailwindCss"],
     link: "https://github.com/Harshcodesfast/ToDo-app",
   },
 ];
