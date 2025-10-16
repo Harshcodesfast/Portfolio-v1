@@ -36,7 +36,7 @@ export const PROJECTS = [
       "typescript",
       "FramerMotion",
     ],
-    link: "https://frontend-vr-website.vercel.app",
+    link: "https://3d-website-nine-zeta.vercel.app/",
   },
   {
     title: "Kanban Board",
